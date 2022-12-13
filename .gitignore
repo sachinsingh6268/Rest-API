@@ -1,0 +1,7 @@
+# It will consists all the files and info that we want to ignore
+
+# as ".env" file has sensitive information so we will ignore this
+.evn 
+
+# we will also ignore "node_modules" file bcz this can be installed & created by just npm install whenever we download the code from github or wherever it's stored
+node_modules
